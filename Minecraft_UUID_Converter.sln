@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UUIDConverter", "UUIDConverter.csproj", "{97C4AE89-1C1A-431C-9B05-A09F690CB5A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C4AE89-1C1A-431C-9B05-A09F690CB5A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C4AE89-1C1A-431C-9B05-A09F690CB5A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C4AE89-1C1A-431C-9B05-A09F690CB5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C4AE89-1C1A-431C-9B05-A09F690CB5A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78446B07-A828-47D1-AC61-6B53DCDE9678}
+	EndGlobalSection
+EndGlobal
